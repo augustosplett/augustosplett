@@ -14,5 +14,12 @@
   </a>
 </div>
 
-## My status
-[![GitHub Streak](https://streak-stats.demolab.com?user=augustosplett)](https://git.io/streak-stats)
+## My Github stats
+<center>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=augustosplett)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=augustosplett)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=augustosplett)
+
+</center>
