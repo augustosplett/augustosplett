@@ -2,7 +2,7 @@
 
 ## About
 
-- From Porto Alegre
+I am a finishing student in Information Technology Programmer-Analyst at LaSalle College, looking to obtain an internship position as software developer where I can apply my skills and knowledge learnt throughout my studies.  I have knowledge in Project and Product management, business analysis, software specification, and data analysis, with 6 years of experience in the information technology industry.
 
 ## Contact Me
 <div align="left">
